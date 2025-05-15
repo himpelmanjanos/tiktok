@@ -71,3 +71,12 @@ span{
 .elsoketto{
   color: #ff0050;
 }
+
+#tikitoki{
+  border: solid 10px ;
+  border-left: #00f2ea;
+  border-top: #00f2ea;
+  border-right: #ff0050;
+  border-bottom: #ff0050;
+  padding: 5px;
+}
