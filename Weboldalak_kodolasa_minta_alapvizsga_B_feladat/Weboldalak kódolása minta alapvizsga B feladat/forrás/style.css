@@ -44,3 +44,18 @@ main{
   padding: 25px;
   text-align: center;
 }
+
+h1{
+  color: white;
+  text-align: center;
+  font-size: 70px;
+  margin-bottom: 30px;
+}
+
+h2{
+  color: white;
+}
+
+p{
+  color: white;
+}
