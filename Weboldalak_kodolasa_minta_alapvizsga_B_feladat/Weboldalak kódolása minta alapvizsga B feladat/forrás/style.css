@@ -37,3 +37,10 @@ li {
 body{
   background-image: url(tiktok-logo.jpg);
 }
+
+main{
+  background-color: black;
+  width: 80%;
+  padding: 25px;
+  text-align: center;
+}
